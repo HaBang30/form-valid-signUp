@@ -1,0 +1,136 @@
+/* ===================  [PRACTICE] VALIDATE FORM SIGN UP ========================================= */
+
+/* .formControl {
+    margin-left: 30px;
+}
+p {
+    margin: 0;
+}
+
+input[type="text"] {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    
+}
+.error-name p{
+  color:red;
+}
+.error-name input {
+  border: 2px solid red;
+} */
+
+/* ===========    [PRACTICE] VALIDATE FORM SIGN UP (SPECIAL) This is answer of CodeGym   ======= */
+/* label {
+    display: block;
+  }
+  
+  .custom-input {
+    padding-bottom: 2%;
+  }
+  
+  .custom-input-error label {
+    color: red;
+  }
+  
+  .custom-input-error input {
+    border: 2px solid red;
+    border-radius: 4px;
+  }
+  
+  .error {
+    color: red;
+    margin: 0;
+  } */
+
+/* ============================================= VALIDATE FORM SIGN UP (TRY AGAIN) =================================== */
+/* .form-control {
+  width: 250px;
+  height: 350px;
+  margin: auto;
+  border: 2px solid red;
+  padding-left: 10px;
+}
+.name-error p {
+  color: red;
+}
+.name-error input {
+  border: 2px solid red;
+}
+.name-error-message {
+  color: red;
+}
+
+.email-error p {
+  color: red;
+}
+.email-error input {
+  border: 2px solid red;
+}
+.email-error-message {
+  color: red;
+}
+
+.password-error p {
+  color: red;
+}
+.password-error input {
+  border: 2px solid red;
+}
+.password-error-message {
+  color: red;
+}
+
+.confrimPassword-error p {
+  color: red;
+}
+.confrimPassword-error input {
+  border: 2px solid red;
+}
+.confirmPassword-error-message {
+  color: red;
+} */
+
+/* ============================================= VALIDATE FORM SIGN UP (TRY AGAIN) =================================== */
+.name-error p{
+  color:red;
+}
+.name-error input {
+  border: 2px solid red;
+}
+.username-error-message {
+  color: red;
+}
+
+.email-error p{
+  color:red;
+}
+.email-error input {
+  border: 2px solid red;
+}
+.email-error-message {
+  color: red;
+}
+
+.password-error p{
+  color:red;
+}
+.password-error input {
+  border: 2px solid red;
+}
+.password-error-message {
+  color: red;
+}
+
+.confirmPassword-error p{
+  color:red;
+}
+.confirmPassword-error input {
+  border: 2px solid red;
+}
+.confirmPassword-error-message {
+  color: red;
+}
+p {
+  margin: 0;
+}
