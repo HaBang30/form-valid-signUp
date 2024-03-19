@@ -92,7 +92,7 @@ input[type="text"] {
 } */
 
 /* ============================================= VALIDATE FORM SIGN UP (TRY AGAIN) =================================== */
-.name-error p{
+/* .name-error p{
   color:red;
 }
 .name-error input {
@@ -133,4 +133,136 @@ input[type="text"] {
 }
 p {
   margin: 0;
+} */
+
+
+/* ============================================ [PRACTICE VALIDATE FORM LOG IN]  =============================== */
+/* .form-control {
+  width: 200px;
+  height: 350px;
+  margin: auto;
+  border: 2px solid #aaa;
+  padding: 0px 50px;
+}
+.email-error p{
+  color: red;
+ 
+}
+.email-error input {
+  border: 2px solid red;
+} 
+.email-error-message {
+  color: red;
+} 
+
+.password-error p{
+  color: red;
+  
+}
+.password-error input {
+  border: 2px solid red;
+  
+}
+.password-error-message {
+  color: red;
+  
+}
+
+button {
+  margin-top: 20px;
+} */
+
+
+/* ===================================== VALIDATE FORM BY FORMIK (CODE BY CODEGYM) =============================== */
+/* label {
+  display: block;
+}
+
+.custom-input {
+  padding-bottom: 2%;
+}
+
+.email-error label {
+  color: red;
+}
+
+.email-error input {
+  border: 2px solid red;
+  border-radius: 4px;
+}
+.email-error-message {
+  color: red;
+} */
+
+
+
+/* =============================== VALIDATE FORM BY FORMIK ================ */
+
+/* .email-field div {
+  color: red;
+}
+.password-field div {
+  color: red;
+} */
+
+
+/* ================================== [practice] CREATE CONTACT FORM ========================= */
+
+/* .form-control {
+  width: 300px;
+  height: 400px;
+  border: 2px solid #aaa;
+  margin:auto;
+  padding-left: 10px;
+}
+p {
+  margin: 0px;
+}
+
+.name-error p{
+  color: red;
+}
+.name-error input {
+  border: 2px solid red;
+}
+.name-error-message {
+  color: red;
+}
+
+.email-error p{
+  color: red;
+}
+.email-error input {
+  border: 2px solid red;
+}
+.email-error-message {
+  color: red;
+}
+
+.phone-error p{
+  color: red;
+}
+.phone-error input {
+  border: 2px solid red;
+}
+.phone-error-message {
+  color: red;
+}
+ */
+
+/* =========================================== [PRACTICE] CREATE CONTACT FORM BY FORMIK ========================== */
+.container-control {
+  font-family: cursive;
+}
+.name-error{
+  color:red;
+}
+.email-error{
+  color:blue;
+}
+.phone-error{
+  color:green;
+}
+.form-control {
+  font-family: cursive;
 }
