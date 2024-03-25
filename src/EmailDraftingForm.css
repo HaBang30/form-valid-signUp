@@ -1,0 +1,41 @@
+
+.container{
+    font-family: cursive;
+    width: 500px;
+    height: auto;
+    border: 2px solid blue;
+    margin: auto;
+}
+.container h1 {
+    text-align: center;
+}
+.error {
+    color: red;
+}
+.container-form{
+    width: 200px;
+    margin:auto
+}
+.form-control-email {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.form-control-title {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.form-control-message {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.form-control-file {
+    
+    margin-bottom: 10px;
+}
+button{
+    
+    margin-bottom: 10px;
+}

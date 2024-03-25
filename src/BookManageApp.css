@@ -1,5 +1,6 @@
+/* ============================== LIBRARY MANAGE BOOKS  ================================== */
 
-.container {
+/* .container {
     font-family: cursive;
     width: 600px;
     height: auto;
@@ -42,4 +43,166 @@ tr, th, td {
 }
 .table-content:hover {
     background: #aaaa;
+} */
+
+
+/* ============================== LIBRARY MANAGE BOOKS BY FORMIK ================================== */
+
+/* .container {
+    font-family: cursive;
+    width: 500px;
+    height: auto;
+    margin:auto;
+    border: 2px solid blue;
+}
+h1 {
+    margin-left: 30%;
+}
+.form-control {
+    width: 250px;
+    margin-left: 30%;
+
+    
+}
+.control-title {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.control-title div {
+    color: red;
+}
+.control-quantity {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.control-quantity div{
+    color:blue;
+}
+.table {
+    width: 98%;
+    margin: 30px 1%;
+    box-sizing: border-box;
+    border-collapse:collapse;
+}
+
+tr, th, td {
+    border: 1px solid #aaa;
+}
+.table-content {
+    background: white;
+}
+.table-content:hover {
+    background: pink;
+}
+button {
+    margin-top: 10px;
+} */
+
+/* ============================== LIBRARY MANAGE BOOKS BY FORMIK(TRY AGAIN ================================== */
+
+/* .container {
+    font-family: cursive;
+    width: 500px;
+    height: auto;
+    border: 2px solid blue;
+    margin: auto;
+}
+.container .container-form {
+    width: 250px;
+    margin: auto;
+}
+.container h1 {
+    text-align: center;
+}
+.container-form .form-control-title {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.form-control-title div{
+    color: red;
+}
+.container-form .form-control-quantity {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.form-control-quantity div{
+    color: red;
+}
+
+.container .table {
+    width: 98%;
+    margin: 20px 1%;
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+tr, th, td {
+    border: 1px solid #aaa
+}
+
+.table-content {
+    background: white;
+}
+.table-content:hover{
+    background: pink;
+} */
+
+/* ============================================APPLICATION MANAGE BOOKS LIBRARY [TRY AGAIN] ========================= */
+
+
+.container {
+    font-family: cursive;
+    width: 500px;
+    height: auto;
+    margin: auto;
+    border: 2px solid blue;
+}
+
+.container .container-form {
+    width: 50%;
+    margin: auto;
+}
+.container h1 {
+    text-align: center;
+}
+
+.form-control-title {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.form-control-title div{
+    color: red;
+}
+.form-control-quantity {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.form-control-quantity div{
+    color: red;
+}
+
+.container-table {
+    width: 98%;
+    margin: 20px 1%;
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+tr, th, td {
+    border: 1px solid #aaa;
+}
+.containe-table .table-content {
+    background: white;
+}
+.table-content:hover:nth-child(odd){
+    background: #aaaa;
+}
+.table-content:hover:nth-child(even){
+    background: pink;
 }
