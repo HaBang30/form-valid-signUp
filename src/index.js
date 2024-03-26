@@ -1,8 +1,9 @@
 import './index.css';
 
+import MedicalDeclarationForm from './medicalDeclarationForm'
 //import BookManageApp from './BookManageApp';
 //import App from './App';
-import EmailDraftingForm from './EmailDraftingForm';
+// import EmailDraftingForm from './EmailDraftingForm';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 // import Register from './SignUpForm';
@@ -14,7 +15,8 @@ root.render(
     {/* <App /> */}
     {/* <Register/> */}
     {/* <BookManageApp/> */}
-    <EmailDraftingForm/>
+    {/* <EmailDraftingForm/> */}
+    <MedicalDeclarationForm/>
   </React.StrictMode>
 );
 

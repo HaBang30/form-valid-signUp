@@ -1,0 +1,49 @@
+.container {
+    font-family: cursive;
+    width: 500px;
+    height: auto;
+    margin: auto;
+    border: 2px solid blue;
+}
+.container h1 {
+    text-align: center;
+}
+
+.container-form-input {
+    margin-bottom: 30px;
+    margin-left: 20px;
+    width: 300px;
+}
+.container-form-address {
+    margin-bottom: 30px;
+    margin-left: 20px;
+    width: 300px;
+}
+.container-form-test {
+    margin-top: 30px;
+    width: 300px;    
+}
+button {
+    margin-bottom: 30px;
+}
+.form-control {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.form-control-check {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.form-control-test {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.form-control-test p {
+    margin: 0px;
+}
+.error {
+    color: red;
+}
